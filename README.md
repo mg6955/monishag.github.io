@@ -1,6 +1,14 @@
-#Work Experience
+## Work Experience
+# Data Science
+# Telecom
 
-#Education
+## Education
+# Masters
 
-#Skills
+# Bachelors
 
+## Skills
+# Programming
+# Data Science
+# Database
+# Telecom 
