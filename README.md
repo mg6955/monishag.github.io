@@ -1,14 +1,16 @@
-## Work Experience
-# Data Science
-# Telecom
+# Summary
 
-## Education
-# Masters
+# Work Experience
+## Data Science
+## Telecom
 
-# Bachelors
+# Education
+## Masters
 
-## Skills
-# Programming
-# Data Science
-# Database
-# Telecom 
+## Bachelors
+
+# Skills
+## Programming
+## Data Science
+## Database
+## Telecom 
