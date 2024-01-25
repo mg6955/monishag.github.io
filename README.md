@@ -1,13 +1,18 @@
 # Summary
+
 Passionate about continual learning and driven by the transformative shifts in the Telecommunication industry, I am an inquisitive explorer navigating the data-driven realm. Transitioning from my background as a Telecom Engineer, I now thrive as a Data Scientist.
 
 # Work Experience
+
 ## Data Science
+
 - Video Codec Compression framework in AWS and Performance Measurement
 - Retrieval Augmented Generation system - a private LLM chatbot
 - Exploratory Data analysis and Feature Engineering
+
   
 ## Telecom
+
 - Data Link Layer UE Stack development of NB-IoT and 5G-NR
 - Proof of Concept for Cellular V2X 5G Use case
 - Log analysis, Debugging and optimizing Stack
@@ -23,6 +28,7 @@ Passionate about continual learning and driven by the transformative shifts in t
 
 
  # Projects
+ 
  ## Database Design and Web based UI for a Library Management System
   This project aimed to design a relational database (using **Oracle Data Modeler**) that stores all the data about a Library. Using relational database system (**MySQL**) to perform (CURD – Create (Insert), Update, Read, Delete records) operations.A web-based user interface for the Database schema designed is implemented using Django and Javascript. In particular, users should be able to register, login, and can perform business activities.
 
