@@ -23,8 +23,9 @@ Passionate about continual learning and driven by the transformative shifts in t
   
    *Anna University - PSG Institute of Technology and Aplloed Research* May 2018
 
+
 # Projects
- 
+
 ## Database Design and Web based UI for a Library Management System
   This project aimed to design a relational database (using **Oracle Data Modeler**) that stores all the data about a Library. Using relational database system (**MySQL**) to perform (CURD – Create (Insert), Update, Read, Delete records) operations.A web-based user interface for the Database schema designed is implemented using Django and Javascript. In particular, users should be able to register, login, and can perform business activities.
 
