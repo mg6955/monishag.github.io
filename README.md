@@ -23,7 +23,6 @@ Passionate about continual learning and driven by the transformative shifts in t
   
    *Anna University - PSG Institute of Technology and Aplloed Research* May 2018
 
-
  # Projects
  
  ## Database Design and Web based UI for a Library Management System
