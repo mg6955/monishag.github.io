@@ -14,9 +14,13 @@ Passionate about continual learning and driven by the transformative shifts in t
 
 # Education
 -  **Master of Science Computer Engineering**
+  
    *New York University - Tandon School of Engineering* May 2023
+   
 -  **Bachelor of  Engineering in Electronics and Communication Engineering**
+  
    *Anna University - PSG Institute of Technology and Aplloed Research* May 2018
+
 
  # Projects
  ## Database Design and Web based UI for a Library Management System
