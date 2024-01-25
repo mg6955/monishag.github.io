@@ -5,14 +5,11 @@ Passionate about continual learning and driven by the transformative shifts in t
 # Work Experience
 
 ## Data Science
-
 - Video Codec Compression framework in AWS and Performance Measurement
 - Retrieval Augmented Generation system - a private LLM chatbot
 - Exploratory Data analysis and Feature Engineering
 
-  
 ## Telecom
-
 - Data Link Layer UE Stack development of NB-IoT and 5G-NR
 - Proof of Concept for Cellular V2X 5G Use case
 - Log analysis, Debugging and optimizing Stack
@@ -40,4 +37,4 @@ Passionate about continual learning and driven by the transformative shifts in t
  new one by transforming music to images and using Generative Adversarial Networks to generate images that is further transformed into music.
  
  ## Smart Stalkers: An Analysis of Smart Trackers as Tools for Interpersonal Surveillance
-    This study analyzes the repurpose of AirTag, Apple Watch, Tile tracker, Samsung Smart Tag, Skullcandy earbuds for Interpersonal surveillance, evaluated the capabilities and drawbacks of publicly available and academic research mobile applications that claim to discover these devices on efficiency and ease of use and reviewed the current law and regulations against stalking. 
+  This study analyzes the repurpose of AirTag, Apple Watch, Tile tracker, Samsung Smart Tag, Skullcandy earbuds for Interpersonal surveillance, evaluated the capabilities and drawbacks of publicly available and academic research mobile applications that claim to discover these devices on efficiency and ease of use and reviewed the current law and regulations against stalking. 
